@@ -1,6 +1,7 @@
 [
     {
         "nome": "Panela do Faria",
+        "img": "https://brazuca.design.blog/wp-content/uploads/2020/03/yeah_logo_sports.png?w=375",
         "posicao": 1,
         "pontos": 9,
         "jogos": 8, 
@@ -11,6 +12,7 @@
     },
     {
         "nome": "Panela do Lobel",
+        "img": "https://brazuca.design.blog/wp-content/uploads/2020/03/samuraigaming_logo_sports.png?w=375",
         "posicao": 3,
         "pontos": 6,
         "jogos": 8, 
@@ -21,6 +23,7 @@
     },
     {
         "nome": "Chilique FC",
+        "img": "https://brazuca.design.blog/wp-content/uploads/2020/03/undead_logo_sports.png?w=375",
         "posicao": 2,
         "pontos": 9,
         "jogos": 8, 
