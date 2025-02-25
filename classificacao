@@ -1,5 +1,7 @@
 [
     {
+    "times":
+        {
         "nome": "Panela do Faria",
         "posicao": 1,
         "pontos": 9,
@@ -28,5 +30,6 @@
         "empates": 3,
         "derrotas": 2,  
         "saldogol": 2
+    }
     }
 ]
