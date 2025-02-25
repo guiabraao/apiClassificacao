@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Panela do Faria",
+        "posicao": 1,
+        "pontos": 9,
+        "jogos": 8, 
+        "vitorias": 4,
+        "empates": 1,
+        "derrotas": 3,
+        "saldogol": -1
+    },
+    {
+        "nome": "Panela do Lobel",
+        "posicao": 3,
+        "pontos": 6,
+        "jogos": 8, 
+        "vitorias": 2,
+        "empates": 2,
+        "derrotas": 4,
+        "saldogol": -1
+    },
+    {
+        "nome": "Chilique FC",
+        "posicao": 2,
+        "pontos": 9,
+        "jogos": 8, 
+        "vitorias": 3,
+        "empates": 3,
+        "derrotas": 2,  
+        "saldogol": 2
+    }
+]
