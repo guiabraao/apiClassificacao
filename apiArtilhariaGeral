@@ -1,6 +1,5 @@
 [
     {
-      "jogadores": [
         {
           "id": 1,
           "nome": "Migalha",
@@ -196,7 +195,6 @@
           "nome": "Felipe K",
           "gols": 0
         }
-      ]
-    }
-  ]
+    }    
+]
   
