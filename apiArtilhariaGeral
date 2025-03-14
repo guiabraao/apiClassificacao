@@ -1,6 +1,5 @@
 [
     {
-        {
           "id": 1,
           "nome": "Migalha",
           "gols": 1
@@ -194,7 +193,6 @@
           "id": 39,
           "nome": "Felipe K",
           "gols": 0
-        }
-    }    
+        } 
 ]
   
