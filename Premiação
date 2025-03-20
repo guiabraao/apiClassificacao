@@ -1,8 +1,18 @@
 [
   {
-    "mvp": "",
-    "goleiro": "",
-    "artilheiro": "",
-    "assistente": ""
+    "nome": "",
+    "premio": "MVP",
+  },
+  {
+    "nome": "",
+    "premio" "Goleiro"
+  },
+  {
+    "nome": "",
+    "premio": "Artilheiro"
+  },
+  {
+    "nome": "",
+    "premio": "Assistente"
   }
 ]
