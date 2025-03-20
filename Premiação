@@ -1,18 +1,20 @@
 [
-  {
-    "nome": "Migalha",
-    "premio": "MVP",
-  },
-  {
-    "nome": "Pedrão",
-    "premio" "Goleiro"
-  },
-  {
-    "nome": "Dalmar",
-    "premio": "Artilheiro"
-  },
-  {
-    "nome": "Davi F",
-    "premio": "Assistente"
+  { 
+    {
+      "nome": "Migalha",
+      "premio": "MVP",
+    },
+    {
+      "nome": "Pedrão",
+      "premio" "Goleiro"
+    },
+    {
+      "nome": "Dalmar",
+      "premio": "Artilheiro"
+    },
+    {
+      "nome": "Davi F",
+      "premio": "Assistente"
+    }
   }
 ]
