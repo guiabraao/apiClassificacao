@@ -2,27 +2,27 @@
     {
           "id": 1,
           "nome": "Migalha",
-          "gols": 1
+          "gols": 0
         },
         {
           "id": 2,
           "nome": "Bello",
-          "gols": 2
+          "gols": 6
         },
         {
           "id": 3,
           "nome": "Guga",
-          "gols": 5
+          "gols": 1
         },
         {
           "id": 4,
           "nome": "Pp",
-          "gols": 3
+          "gols": 1
         },
         {
           "id": 5,
           "nome": "Martins",
-          "gols": 0
+          "gols": 3
         },
         {
           "id": 6,
@@ -32,12 +32,12 @@
         {
           "id": 7,
           "nome": "Danilo",
-          "gols": 0
+          "gols": 2
         },
         {
           "id": 8,
           "nome": "Davizin",
-          "gols": 0
+          "gols": 3
         },
         {
           "id": 9,
@@ -52,12 +52,12 @@
         {
           "id": 11,
           "nome": "Peres",
-          "gols": 0
+          "gols": 1
         },
         {
           "id": 12,
           "nome": "Dalmar",
-          "gols": 0
+          "gols": 2
         },
         {
           "id": 13,
@@ -77,7 +77,7 @@
         {
           "id": 16,
           "nome": "Igor",
-          "gols": 0
+          "gols": 2
         },
         {
           "id": 17,
@@ -100,6 +100,11 @@
           "gols": 0
         },
         {
+          "id": 40,
+          "nome": "Henrique",
+          "gols": 1
+        },
+        {
           "id": 21,
           "nome": "Tonini",
           "gols": 0
@@ -107,12 +112,12 @@
         {
           "id": 22,
           "nome": "Didi",
-          "gols": 0
+          "gols": 3
         },
         {
           "id": 23,
           "nome": "Davi",
-          "gols": 0
+          "gols": 1
         },
         {
           "id": 24,
@@ -122,7 +127,7 @@
         {
           "id": 25,
           "nome": "Moraes",
-          "gols": 0
+          "gols": 3
         },
         {
           "id": 26,
@@ -142,7 +147,7 @@
         {
           "id": 29,
           "nome": "Mafra",
-          "gols": 0
+          "gols": 1
         },
         {
           "id": 30,
@@ -172,7 +177,7 @@
         {
           "id": 35,
           "nome": "Ramiro",
-          "gols": 0
+          "gols": 1
         },
         {
           "id": 36,
