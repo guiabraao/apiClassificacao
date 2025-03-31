@@ -1,0 +1,70 @@
+[
+    {
+        "categoria" : "Atacantes",
+        "jogadores": [
+            {
+                "nome": "Jogador 1"
+            },
+            {
+                "nome": "Jogador 2"
+            },
+            {
+                "nome": "Jogador 3"
+            },
+            {
+                "nome": "Jogador 4"
+            }
+        ]
+    },
+    {
+        "categoria" : "Meias",
+        "jogadores": [
+            {
+                "nome": "Jogador 5"
+            },
+            {
+                "nome": "Jogador 6"
+            },
+            {
+                "nome": "Jogador 7"
+            },
+            {
+                "nome": "Jogador 8"
+            }
+        ]
+    },
+    {
+        "categoria" : "Laterais",
+        "jogadores": [
+            {
+                "nome": "Jogador 9"
+            },
+            {
+                "nome": "Jogador 10"
+            },
+            {
+                "nome": "Jogador 11"
+            },
+            {
+                "nome": "Jogador 12"
+            }
+        ]
+    },
+    {
+        "categoria" : "Zagueiros",
+        "jogadores": [
+            {
+                "nome": "Jogador 13"
+            },
+            {
+                "nome": "Jogador 14"
+            },
+            {
+                "nome": "Jogador 15"
+            },
+            {
+                "nome": "Jogador 16"
+            }
+        ]
+    }
+]
