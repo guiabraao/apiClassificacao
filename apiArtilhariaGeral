@@ -2,12 +2,12 @@
     {
           "id": 1,
           "nome": "Migalha",
-          "gols": 0
+          "gols": 1
         },
         {
           "id": 2,
           "nome": "Bello",
-          "gols": 6
+          "gols": 9
         },
         {
           "id": 3,
@@ -22,7 +22,7 @@
         {
           "id": 5,
           "nome": "Martins",
-          "gols": 3
+          "gols": 5
         },
         {
           "id": 6,
@@ -52,12 +52,12 @@
         {
           "id": 11,
           "nome": "Peres",
-          "gols": 1
+          "gols": 4
         },
         {
           "id": 12,
           "nome": "Dalmar",
-          "gols": 2
+          "gols": 6
         },
         {
           "id": 13,
@@ -177,7 +177,7 @@
         {
           "id": 35,
           "nome": "Ramiro",
-          "gols": 1
+          "gols": 2
         },
         {
           "id": 36,
@@ -192,7 +192,7 @@
         {
           "id": 38,
           "nome": "Devesa",
-          "gols": 0
+          "gols": 1
         },
         {
           "id": 39,
