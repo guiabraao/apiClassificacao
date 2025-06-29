@@ -12,7 +12,7 @@
         {
           "id": 3,
           "nome": "Guga",
-          "gols": 1
+          "gols": 2
         },
         {
           "id": 4,
@@ -22,7 +22,7 @@
         {
           "id": 5,
           "nome": "Martins",
-          "gols": 5
+          "gols": 7
         },
         {
           "id": 6,
@@ -32,12 +32,12 @@
         {
           "id": 7,
           "nome": "Danilo",
-          "gols": 2
+          "gols": 5
         },
         {
           "id": 8,
           "nome": "Davizin",
-          "gols": 3
+          "gols": 5
         },
         {
           "id": 9,
@@ -52,7 +52,7 @@
         {
           "id": 11,
           "nome": "Peres",
-          "gols": 4
+          "gols": 5
         },
         {
           "id": 12,
@@ -127,7 +127,7 @@
         {
           "id": 25,
           "nome": "Moraes",
-          "gols": 3
+          "gols": 5
         },
         {
           "id": 26,
@@ -162,7 +162,7 @@
         {
           "id": 32,
           "nome": "Kaio",
-          "gols": 0
+          "gols": 1
         },
         {
           "id": 33,
