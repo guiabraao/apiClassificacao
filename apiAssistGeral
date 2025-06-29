@@ -7,12 +7,12 @@
     {
       "id": 2,
       "nome": "Bello",
-      "assist": 1
+      "assist": 2
     },
     {
       "id": 3,
       "nome": "Guga",
-      "assist": 0
+      "assist": 1
     },
     {
       "id": 4,
@@ -22,7 +22,7 @@
     {
       "id": 5,
       "nome": "Martins",
-      "assist": 0
+      "assist": 2
     },
     {
       "id": 6,
@@ -32,7 +32,7 @@
     {
       "id": 7,
       "nome": "Danilo",
-      "assist": 0
+      "assist": 1
     },
     {
       "id": 8,
@@ -127,17 +127,17 @@
     {
       "id": 26,
       "nome": "Sabia",
-      "assist": 0
+      "assist": 1
     },
     {
       "id": 27,
       "nome": "Joval",
-      "assist": 0
+      "assist": 1
     },
     {
       "id": 28,
       "nome": "Gabirru",
-      "assist": 0
+      "assist": 1
     },
     {
       "id": 29,
