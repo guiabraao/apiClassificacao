@@ -22,7 +22,7 @@
     {
       "id": 5,
       "nome": "Martins",
-      "assist": 6
+      "assist": 8
     },
     {
       "id": 6,
@@ -37,7 +37,7 @@
     {
       "id": 8,
       "nome": "Davizin",
-      "assist": 1
+      "assist": 2
     },
     {
       "id": 9,
@@ -57,7 +57,7 @@
     {
       "id": 12,
       "nome": "Dalmar",
-      "assist": 1
+      "assist": 2
     },
     {
       "id": 13,
@@ -82,7 +82,7 @@
     {
       "id": 17,
       "nome": "Robinho",
-      "assist": 1
+      "assist": 2
     },
     {
       "id": 18,
@@ -127,7 +127,7 @@
     {
       "id": 26,
       "nome": "Sabiá",
-      "assist": 3
+      "assist": 4
     },
     {
       "id": 27,
