@@ -22,7 +22,7 @@
     {
       "id": 5,
       "nome": "Martins",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 6,
@@ -37,7 +37,7 @@
     {
       "id": 8,
       "nome": "Davizin",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 9,
@@ -67,7 +67,7 @@
     {
       "id": 14,
       "nome": "Tcholas",
-      "countTotw": 0
+      "countTotw": 1
     },
     {
       "id": 15,
@@ -82,7 +82,7 @@
     {
       "id": 17,
       "nome": "Robinho",
-      "countTotw": 0
+      "countTotw": 1
     },
     {
       "id": 18,
@@ -102,12 +102,12 @@
     {
       "id": 21,
       "nome": "Tonini",
-      "countTotw": 0
+      "countTotw": 1
     },
     {
       "id": 22,
       "nome": "Didi",
-      "countTotw": 0
+      "countTotw": 1
     },
     {
       "id": 23,
@@ -127,12 +127,12 @@
     {
       "id": 26,
       "nome": "Sabia",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 27,
       "nome": "Joval",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 28,
@@ -187,11 +187,12 @@
     {
       "id": 38,
       "nome": "Devesa",
-      "countTotw": 0
+      "countTotw": 1
     },
     {
       "id": 39,
-      "nome": "Felipe K",
-      "countTotw": 0
-    }    
+      "nome": "Henrique",
+      "countTotw": 2
+    }
+    
 ]
