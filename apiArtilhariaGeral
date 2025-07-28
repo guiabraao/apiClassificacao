@@ -2,12 +2,12 @@
     {
           "id": 1,
           "nome": "Migalha",
-          "gols": 1
+          "gols": 2
         },
         {
           "id": 2,
           "nome": "Bello",
-          "gols": 10
+          "gols": 12
         },
         {
           "id": 3,
@@ -22,7 +22,7 @@
         {
           "id": 5,
           "nome": "Martins",
-          "gols": 10
+          "gols": 12
         },
         {
           "id": 6,
@@ -47,7 +47,7 @@
         {
           "id": 10,
           "nome": "Gui Vb",
-          "gols": 0
+          "gols": 1
         },
         {
           "id": 11,
@@ -57,7 +57,7 @@
         {
           "id": 12,
           "nome": "Dalmar",
-          "gols": 11
+          "gols": 13
         },
         {
           "id": 13,
