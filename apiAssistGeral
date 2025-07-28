@@ -17,7 +17,7 @@
     {
       "id": 4,
       "nome": "Pp",
-      "assist": 3
+      "assist": 4
     },
     {
       "id": 5,
@@ -32,12 +32,12 @@
     {
       "id": 7,
       "nome": "Danilo",
-      "assist": 1
+      "assist": 2
     },
     {
       "id": 8,
       "nome": "Davizin",
-      "assist": 2
+      "assist": 5
     },
     {
       "id": 9,
@@ -107,7 +107,7 @@
     {
       "id": 22,
       "nome": "Didi",
-      "assist": 0
+      "assist": 1
     },
     {
       "id": 23,
@@ -122,7 +122,7 @@
     {
       "id": 25,
       "nome": "Moraes",
-      "assist": 1
+      "assist": 2
     },
     {
       "id": 26,
