@@ -2,7 +2,7 @@
     {
       "id": 1,
       "nome": "Migalha",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 2,
@@ -32,12 +32,12 @@
     {
       "id": 7,
       "nome": "Danilo",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 8,
       "nome": "Davizin",
-      "countTotw": 2
+      "countTotw": 3
     },
     {
       "id": 9,
@@ -57,7 +57,7 @@
     {
       "id": 12,
       "nome": "Dalmar",
-      "countTotw": 0
+      "countTotw": 1
     },
     {
       "id": 13,
@@ -67,7 +67,7 @@
     {
       "id": 14,
       "nome": "Tcholas",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 15,
@@ -87,7 +87,7 @@
     {
       "id": 18,
       "nome": "Lamartine",
-      "countTotw": 0
+      "countTotw": 1
     },
     {
       "id": 19,
@@ -193,6 +193,16 @@
       "id": 39,
       "nome": "Henrique",
       "countTotw": 2
+    }
+    {
+      "id": 40,
+      "nome": "SamuelV",
+      "countTotw": 1
+    }
+    {
+      "id": 41,
+      "nome": "Leo",
+      "countTotw": 1
     }
     
 ]
