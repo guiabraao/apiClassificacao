@@ -2,27 +2,27 @@
     {
       "id": 1,
       "nome": "Migalha",
-      "countTotw": 2
+      "countTotw": 3
     },
     {
       "id": 2,
       "nome": "Bello",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 3,
       "nome": "Guga",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 4,
       "nome": "Pp",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 5,
       "nome": "Martins",
-      "countTotw": 2
+      "countTotw": 3
     },
     {
       "id": 6,
@@ -47,7 +47,7 @@
     {
       "id": 10,
       "nome": "Gui Vb",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 11,
@@ -62,7 +62,7 @@
     {
       "id": 13,
       "nome": "Coutinho",
-      "countTotw": 0
+      "countTotw": 1
     },
     {
       "id": 14,
@@ -107,7 +107,7 @@
     {
       "id": 22,
       "nome": "Didi",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 23,
@@ -132,7 +132,7 @@
     {
       "id": 27,
       "nome": "Joval",
-      "countTotw": 2
+      "countTotw": 3
     },
     {
       "id": 28,
@@ -187,7 +187,7 @@
     {
       "id": 38,
       "nome": "Devesa",
-      "countTotw": 1
+      "countTotw": 2
     },
     {
       "id": 39,
