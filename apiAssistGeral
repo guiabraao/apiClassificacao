@@ -7,7 +7,7 @@
     {
       "id": 2,
       "nome": "Bello",
-      "assist": 5
+      "assist": 7
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
     {
       "id": 5,
       "nome": "Martins",
-      "assist": 8
+      "assist": 9
     },
     {
       "id": 6,
@@ -32,7 +32,7 @@
     {
       "id": 7,
       "nome": "Danilo",
-      "assist": 2
+      "assist": 4
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
     {
       "id": 13,
       "nome": "Coutinho",
-      "assist": 2
+      "assist": 3
     },
     {
       "id": 14,
@@ -107,7 +107,7 @@
     {
       "id": 22,
       "nome": "Didi",
-      "assist": 1
+      "assist": 2
     },
     {
       "id": 23,
