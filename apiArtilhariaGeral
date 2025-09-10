@@ -7,7 +7,7 @@
         {
           "id": 2,
           "nome": "Bello",
-          "gols": 12
+          "gols": 13
         },
         {
           "id": 3,
@@ -22,7 +22,7 @@
         {
           "id": 5,
           "nome": "Martins",
-          "gols": 19
+          "gols": 20
         },
         {
           "id": 6,
@@ -32,7 +32,7 @@
         {
           "id": 7,
           "nome": "Danilo",
-          "gols": 7
+          "gols": 8
         },
         {
           "id": 8,
@@ -67,7 +67,7 @@
         {
           "id": 14,
           "nome": "Tcholas",
-          "gols": 3
+          "gols": 4
         },
         {
           "id": 15,
@@ -87,7 +87,7 @@
         {
           "id": 18,
           "nome": "Lamartine",
-          "gols": 0
+          "gols": 1
         },
         {
           "id": 19,
@@ -137,7 +137,7 @@
         {
           "id": 27,
           "nome": "Joval",
-          "gols": 0
+          "gols": 1
         },
         {
           "id": 28,
