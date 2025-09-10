@@ -2,7 +2,7 @@
     {
           "id": 1,
           "nome": "Migalha",
-          "gols": 2
+          "gols": 3
         },
         {
           "id": 2,
@@ -22,7 +22,7 @@
         {
           "id": 5,
           "nome": "Martins",
-          "gols": 17
+          "gols": 19
         },
         {
           "id": 6,
@@ -57,7 +57,7 @@
         {
           "id": 12,
           "nome": "Dalmar",
-          "gols": 16
+          "gols": 17
         },
         {
           "id": 13,
@@ -112,7 +112,7 @@
         {
           "id": 22,
           "nome": "Didi",
-          "gols": 10
+          "gols": 11
         },
         {
           "id": 23,
@@ -132,7 +132,7 @@
         {
           "id": 26,
           "nome": "Sabia",
-          "gols": 1
+          "gols": 2
         },
         {
           "id": 27,
