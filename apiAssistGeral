@@ -37,12 +37,12 @@
     {
       "id": 8,
       "nome": "Davizin",
-      "assist": 6
+      "assist": 7
     },
     {
       "id": 9,
       "nome": "Fajardo",
-      "assist": 0
+      "assist": 1
     },
     {
       "id": 10,
@@ -182,7 +182,7 @@
     {
       "id": 37,
       "nome": "João S",
-      "assist": 0
+      "assist": 1
     },
     {
       "id": 38,
