@@ -22,7 +22,7 @@
         {
           "id": 5,
           "nome": "Martins",
-          "gols": 24
+          "gols": 25
         },
         {
           "id": 6,
@@ -57,7 +57,7 @@
         {
           "id": 12,
           "nome": "Dalmar",
-          "gols": 18
+          "gols": 20
         },
         {
           "id": 13,
@@ -196,8 +196,19 @@
         },
         {
           "id": 39,
-          "nome": "Felipe K",
-          "gols": 0
-        } 
+          "nome": "Diego",
+          "gols": 2
+        },
+        {
+          "id": 40,
+          "nome": "Matheus",
+          "gols": 3
+        },
+        {
+          "id": 41,
+          "nome": "Cadu",
+          "gols": 4
+        },
+
 ]
   
