@@ -2,12 +2,12 @@
     {
           "id": 1,
           "nome": "Migalha",
-          "gols": 4
+          "gols": 5
         },
         {
           "id": 2,
           "nome": "Bello",
-          "gols": 17
+          "gols": 18
         },
         {
           "id": 3,
@@ -17,12 +17,12 @@
         {
           "id": 4,
           "nome": "Pp",
-          "gols": 5
+          "gols": 6
         },
         {
           "id": 5,
           "nome": "Martins",
-          "gols": 7
+          "gols": 29
         },
         {
           "id": 6,
@@ -102,7 +102,7 @@
         {
           "id": 40,
           "nome": "Henrique",
-          "gols": 1
+          "gols": 2
         },
         {
           "id": 21,
@@ -127,7 +127,7 @@
         {
           "id": 25,
           "nome": "Moraes",
-          "gols": 10
+          "gols": 11
         },
         {
           "id": 26,
@@ -202,7 +202,7 @@
         {
           "id": 40,
           "nome": "Matheus",
-          "gols": 5
+          "gols": 8
         },
         {
           "id": 41,
@@ -222,7 +222,12 @@
         {
           "id": 44,
           "nome": "Antônio",
-          "gols": 6
+          "gols": 9
+        },
+        {
+          "id": 45,
+          "nome": "João Vaz",
+          "gols": 1
         }
 ]
   
