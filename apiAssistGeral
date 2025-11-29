@@ -122,7 +122,7 @@
     {
       "id": 25,
       "nome": "Moraes",
-      "assist": 4
+      "assist": 5
     },
     {
       "id": 26,
@@ -171,8 +171,8 @@
     },
     {
       "id": 35,
-      "nome": "Ramiro",
-      "assist": 0
+      "nome": "Henrique",
+      "assist": 1
     },
     {
       "id": 36,
@@ -217,7 +217,7 @@
     {
       "id": 44,
       "nome": "Matheus",
-      "assist": 5
+      "assist": 9
     },
     {
       "id": 45,
@@ -232,7 +232,7 @@
     {
       "id": 47,
       "nome": "Rezende",
-      "assist": 2
+      "assist": 3
     }
 ]
   
