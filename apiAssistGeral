@@ -22,7 +22,7 @@
     {
       "id": 5,
       "nome": "Martins",
-      "assist": 13
+      "assist": 15
     },
     {
       "id": 6,
@@ -67,7 +67,7 @@
     {
       "id": 14,
       "nome": "Tcholas",
-      "assist": 0
+      "assist": 1
     },
     {
       "id": 15,
@@ -177,7 +177,7 @@
     {
       "id": 36,
       "nome": "Rafão",
-      "assist": 0
+      "assist": 1
     },
     {
       "id": 37,
@@ -222,7 +222,7 @@
     {
       "id": 45,
       "nome": "Chamone",
-      "assist": 1
+      "assist": 2
     }
 ]
   
