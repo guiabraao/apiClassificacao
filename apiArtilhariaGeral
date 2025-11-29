@@ -7,12 +7,12 @@
         {
           "id": 2,
           "nome": "Bello",
-          "gols": 16
+          "gols": 17
         },
         {
           "id": 3,
           "nome": "Guga",
-          "gols": 4
+          "gols": 6
         },
         {
           "id": 4,
@@ -67,17 +67,17 @@
         {
           "id": 14,
           "nome": "Tcholas",
-          "gols": 4
+          "gols": 5
         },
         {
           "id": 15,
           "nome": "Tuco",
-          "gols": 1
+          "gols": 2
         },
         {
           "id": 16,
           "nome": "Igor",
-          "gols": 5
+          "gols": 6
         },
         {
           "id": 17,
@@ -127,7 +127,7 @@
         {
           "id": 25,
           "nome": "Moraes",
-          "gols": 9
+          "gols": 10
         },
         {
           "id": 26,
@@ -202,7 +202,7 @@
         {
           "id": 40,
           "nome": "Matheus",
-          "gols": 4
+          "gols": 5
         },
         {
           "id": 41,
@@ -213,6 +213,16 @@
           "id": 42,
           "nome": "Chamone",
           "gols": 1
+        },
+        {
+          "id": 43,
+          "nome": "Samuel V",
+          "gols": 1
+        },
+        {
+          "id": 44,
+          "nome": "Antônio",
+          "gols": 6
         }
 ]
   
