@@ -1,233 +1,50 @@
 [
-    {
-          "id": 1,
-          "nome": "Migalha",
-          "gols": 5
-        },
-        {
-          "id": 2,
-          "nome": "Bello",
-          "gols": 18
-        },
-        {
-          "id": 3,
-          "nome": "Guga",
-          "gols": 6
-        },
-        {
-          "id": 4,
-          "nome": "Pp",
-          "gols": 6
-        },
-        {
-          "id": 5,
-          "nome": "Martins",
-          "gols": 29
-        },
-        {
-          "id": 6,
-          "nome": "Samuel N",
-          "gols": 0
-        },
-        {
-          "id": 7,
-          "nome": "Danilo",
-          "gols": 17
-        },
-        {
-          "id": 8,
-          "nome": "Davizin",
-          "gols": 8
-        },
-        {
-          "id": 9,
-          "nome": "Fajardo",
-          "gols": 2
-        },
-        {
-          "id": 10,
-          "nome": "Gui Vb",
-          "gols": 1
-        },
-        {
-          "id": 11,
-          "nome": "Peres",
-          "gols": 6
-        },
-        {
-          "id": 12,
-          "nome": "Dalmar",
-          "gols": 20
-        },
-        {
-          "id": 13,
-          "nome": "Coutinho",
-          "gols": 0
-        },
-        {
-          "id": 14,
-          "nome": "Tcholas",
-          "gols": 5
-        },
-        {
-          "id": 15,
-          "nome": "Tuco",
-          "gols": 2
-        },
-        {
-          "id": 16,
-          "nome": "Igor",
-          "gols": 6
-        },
-        {
-          "id": 17,
-          "nome": "Robinho",
-          "gols": 2
-        },
-        {
-          "id": 18,
-          "nome": "Lamartine",
-          "gols": 1
-        },
-        {
-          "id": 19,
-          "nome": "Aurelio",
-          "gols": 0
-        },
-        {
-          "id": 20,
-          "nome": "Hernandes",
-          "gols": 0
-        },
-        {
-          "id": 40,
-          "nome": "Henrique",
-          "gols": 2
-        },
-        {
-          "id": 21,
-          "nome": "Tonini",
-          "gols": 0
-        },
-        {
-          "id": 22,
-          "nome": "Didi",
-          "gols": 11
-        },
-        {
-          "id": 23,
-          "nome": "Davi",
-          "gols": 2
-        },
-        {
-          "id": 24,
-          "nome": "Luiz",
-          "gols": 0
-        },
-        {
-          "id": 25,
-          "nome": "Moraes",
-          "gols": 11
-        },
-        {
-          "id": 26,
-          "nome": "Sabia",
-          "gols": 5
-        },
-        {
-          "id": 27,
-          "nome": "Joval",
-          "gols": 1
-        },
-        {
-          "id": 28,
-          "nome": "Gabirru",
-          "gols": 0
-        },
-        {
-          "id": 29,
-          "nome": "Mafra",
-          "gols": 1
-        },
-        {
-          "id": 30,
-          "nome": "Jonilson",
-          "gols": 0
-        },
-        {
-          "id": 31,
-          "nome": "Dudu",
-          "gols": 0
-        },
-        {
-          "id": 32,
-          "nome": "Kaio",
-          "gols": 3
-        },
-        {
-          "id": 33,
-          "nome": "Gui C",
-          "gols": 0
-        },
-        {
-          "id": 34,
-          "nome": "Pagode",
-          "gols": 0
-        },
-        {
-          "id": 35,
-          "nome": "Ramiro",
-          "gols": 2
-        },
-        {
-          "id": 36,
-          "nome": "Rafão",
-          "gols": 0
-        },
-        {
-          "id": 37,
-          "nome": "João S",
-          "gols": 0
-        },
-        {
-          "id": 38,
-          "nome": "Devesa",
-          "gols": 2
-        },
-        {
-          "id": 39,
-          "nome": "Diego",
-          "gols": 2
-        },
-        {
-          "id": 40,
-          "nome": "Matheus",
-          "gols": 8
-        },
-        {
-          "id": 41,
-          "nome": "Cadu",
-          "gols": 4
-        },
-        {
-          "id": 42,
-          "nome": "Chamone",
-          "gols": 1
-        },
-        {
-          "id": 43,
-          "nome": "Samuel V",
-          "gols": 1
-        },
-        {
-          "id": 44,
-          "nome": "Antônio",
-          "gols": 9
-        },
-        {
-          "id": 45,
-          "nome": "João Vaz",
-          "gols": 1
-        }
+  { "id": 1, "nome": "Migalha", "gols": 0 },
+  { "id": 2, "nome": "Bello", "gols": 5 },
+  { "id": 3, "nome": "Guga", "gols": 0 },
+  { "id": 4, "nome": "Pp", "gols": 4 },
+  { "id": 5, "nome": "Martins", "gols": 6 },
+  { "id": 6, "nome": "Samuel N", "gols": 0 },
+  { "id": 7, "nome": "Danilo", "gols": 2 },
+  { "id": 8, "nome": "Davizin", "gols": 6 },
+  { "id": 9, "nome": "Fajardo", "gols": 0 },
+  { "id": 10, "nome": "Gui Vb", "gols": 0 },
+  { "id": 11, "nome": "Peres", "gols": 4 },
+  { "id": 12, "nome": "Dalmar", "gols": 0 },
+  { "id": 13, "nome": "Coutinho", "gols": 0 },
+  { "id": 14, "nome": "Tcholas", "gols": 1 },
+  { "id": 15, "nome": "Tuco", "gols": 0 },
+  { "id": 16, "nome": "Igor", "gols": 0 },
+  { "id": 17, "nome": "Robinho", "gols": 0 },
+  { "id": 18, "nome": "Lamartine", "gols": 0 },
+  { "id": 19, "nome": "Aurelio", "gols": 0 },
+  { "id": 20, "nome": "Hernandes", "gols": 0 },
+  { "id": 21, "nome": "Tonini", "gols": 0 },
+  { "id": 22, "nome": "Didi", "gols": 1 },
+  { "id": 23, "nome": "Davi", "gols": 0 },
+  { "id": 24, "nome": "Luiz", "gols": 0 },
+  { "id": 25, "nome": "Moraes", "gols": 0 },
+  { "id": 26, "nome": "Sabiá", "gols": 0 },
+  { "id": 27, "nome": "Joval", "gols": 0 },
+  { "id": 28, "nome": "Gabirru", "gols": 0 },
+  { "id": 29, "nome": "Mafra", "gols": 2 },
+  { "id": 30, "nome": "Soares", "gols": 4 }, 
+  { "id": 31, "nome": "Faria", "gols": 0 },
+  { "id": 32, "nome": "Kaio", "gols": 0 },
+  { "id": 33, "nome": "Gui C", "gols": 0 },
+  { "id": 34, "nome": "Iann", "gols": 1 },
+  { "id": 35, "nome": "Henrique M", "gols": 0 },
+  { "id": 36, "nome": "Rafão", "gols": 2 },
+  { "id": 37, "nome": "João S", "gols": 0 },
+  { "id": 38, "nome": "Devesa", "gols": 0 },
+  { "id": 39, "nome": "Samuel V", "gols": 0 },
+  { "id": 40, "nome": "João Vaz", "gols": 0 },
+  { "id": 41, "nome": "Léo", "gols": 0 },
+  { "id": 42, "nome": "Diego", "gols": 0 },
+  { "id": 43, "nome": "Léo", "gols": 0 },
+  { "id": 44, "nome": "Matheus", "gols": 1 },
+  { "id": 45, "nome": "Chamone", "gols": 1 },
+  { "id": 46, "nome": "Pedrinho", "gols": 0 },
+  { "id": 47, "nome": "Rezende", "gols": 1 },
+  { "id": 48, "nome": "Ph", "gols": 3 }
 ]
-  
